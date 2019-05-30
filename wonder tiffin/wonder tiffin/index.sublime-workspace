@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sm",
+				"smoothScroll"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"mr",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-decoration-color"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"su",
+				"Subject"
+			],
+			[
+				"col-",
+				"col-2"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/2076_zentro/css/style.css",
+		"/C/wamp/www/2076_zentro/index.html",
+		"/C/wamp/www/2076_zentro/punjabi food.php",
+		"/C/wamp/www/2076_zentro/gujarati food.php",
+		"/C/wamp/www/2076_zentro/diet food.php",
+		"/C/wamp/www/2076_zentro/jain food.phhp",
+		"/C/wamp/www/2076_zentro/junk food.php",
+		"/C/wamp/www/homely meal/css/main.css",
+		"/C/wamp/www/homely meal/index.php",
+		"/C/wamp/www/2076_zentro/css/dropdown.css",
+		"/C/Program Files/Sublime Text 3/sem6/css/menu.css",
+		"/C/Program Files/Sublime Text 3/sem6/css/style.css",
+		"/C/Program Files/Sublime Text 3/sem6/index.php",
+		"/C/Program Files/Sublime Text 3/sem6/css/grid.css",
+		"/G/sem-5/training/website1/css/style.css",
+		"/G/sem-5/training/website1/css/menu.css",
+		"/G/sem-5/training/website1/css/grid.css",
+		"/G/sem-5/training/website1/index.html",
+		"/G/sem-5/project/Bookstore/index.php",
+		"/C/Program Files/Sublime Text 3/sem-6/css/grid.css",
+		"/C/wamp/www/sem-6/index.php",
+		"/C/Program Files/Sublime Text 3/sem-6/index.php",
+		"/C/Program Files/Sublime Text 3/rahulpatel/css/style.css",
+		"/C/Program Files/Sublime Text 3/rahulpatel/css/grid.css",
+		"/C/Program Files/Sublime Text 3/rahulpatel/index.html",
+		"/C/Program Files/Sublime Text 3/chintu/index.html",
+		"/C/Program Files/Sublime Text 3/harshil/index.html",
+		"/C/Program Files/Sublime Text 3/harshil/css/style.css",
+		"/C/Program Files/Sublime Text 3/website3/css/style.css",
+		"/C/Program Files/Sublime Text 3/website3/index.html",
+		"/C/Program Files/Sublime Text 3/rahul/index.html",
+		"/C/Program Files/Sublime Text 3/website1/index.html",
+		"/C/Program Files/Sublime Text 3/website2/index.html",
+		"/C/Program Files/Sublime Text 3/website2/css/grid.css",
+		"/C/Program Files/Sublime Text 3/website2/css/menu.css",
+		"/C/Program Files/Sublime Text 3/chintu/css/style.css",
+		"/C/Program Files/Sublime Text 3/website3/css/grid.css",
+		"/C/Program Files/Sublime Text 3/chintu/css/grid.css",
+		"/C/Users/admin/Desktop/rahul patel/css/style.css",
+		"/C/Users/admin/Desktop/rahul patel/css/grid.css",
+		"/C/Users/admin/Desktop/rahul patel/index.html",
+		"/C/Program Files/Sublime Text 3/website1/css/menu.css",
+		"/C/Program Files/Sublime Text 3/website1/css/style.css",
+		"/C/Program Files/Sublime Text 3/website1/css/grid.css",
+		"/C/Program Files/Sublime Text 3/webiste/index.html",
+		"/C/Program Files/Sublime Text 3/webiste/css/menu.css",
+		"/G/sem-5/training/webiste/index.html",
+		"/C/Program Files/Sublime Text 3/website1/img/logo.png",
+		"/C/Program Files/Sublime Text 3/webiste/css/style.css",
+		"/C/Program Files/Sublime Text 3/webiste/about.html",
+		"/C/Program Files/Sublime Text 3/webiste/contact.html",
+		"/C/Program Files/Sublime Text 3/webiste/portfolio.html",
+		"/G/sem-5/training/webiste/contact.html",
+		"/G/sem-5/training/webiste/about.html",
+		"/G/sem-5/training/webiste/css/style.css",
+		"/G/sem-5/training/webiste/css/port.css",
+		"/G/sem-5/training/webiste/css/menu.css",
+		"/G/sem-5/training/webiste/portfolio.html",
+		"/C/Program Files/Sublime Text 3/style.css",
+		"/C/Program Files/Sublime Text 3/menu.css",
+		"/C/Program Files/Sublime Text 3/portfolio.html",
+		"/C/Program Files/Sublime Text 3/about.html",
+		"/C/Program Files/Sublime Text 3/contact.html",
+		"/C/Program Files/Sublime Text 3/index.html",
+		"/C/Program Files/Sublime Text 3/port.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
